@@ -1,0 +1,13 @@
+Using Unity;
+
+Public class WeaponsManager: Monobehaviour;
+
+Public MeleeWeapon[] meleeWeapon;
+Public Weapon[] primaryFireArm;
+Public Weapon[] sideArm;
+
+Public void Start(){
+}
+Public void Update(){
+}
+}
